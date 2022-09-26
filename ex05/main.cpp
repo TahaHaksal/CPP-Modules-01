@@ -4,5 +4,5 @@ int	main(void)
 {
 	Harl	asd;
 
-	asd.complain("asd");
+	asd.complain("debug");
 }
